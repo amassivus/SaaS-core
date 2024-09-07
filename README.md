@@ -1,10 +1,10 @@
 # Software as a Service Core
 
----
+Our code base for Software as a Service ( in our understanding self-hosted )
 
 # License
 
----
+Our code base for Software as a Service ( in our understanding self-hosted )
 
 Copyright (C) 2024-2025 QB Networks
 
